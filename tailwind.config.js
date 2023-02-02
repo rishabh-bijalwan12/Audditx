@@ -26,7 +26,6 @@ module.exports = {
         lagoo3: "#6fb1fc",
         green1:"#02aab0",
         green2:"#00cdac"
-        
       },
       screens: {
         sm: "640px",
